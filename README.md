@@ -2,6 +2,6 @@
 (and occasionally designing) exceptional digital experiences.
 
 Here are a few technologies I’ve been working with recently:
-› JavaScript    	› React     › Node.js     
+› JavaScript    	› React     › Node.js     › Next.js     › MongoDB     
 
 You can some of the projects im working on here.
